@@ -1,4 +1,4 @@
-# Exercise1
+# All Exercise in one file
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
